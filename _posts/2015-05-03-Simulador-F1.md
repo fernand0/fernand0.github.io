@@ -3,7 +3,13 @@ layout: post
 title: "Algunos detalles sobre simuladores de Fórmula 1"
 date: "Fri Apr 24 12:20:01 +0100 2015"
 category: desarrollo
-tags: desarrollo simulación f1 fórmula 1 carreras simulador 
+tags: 
+- desarrollo 
+- simulación 
+- f1 
+- fórmula 1 
+- carreras 
+- simulador 
 ---
 
 
