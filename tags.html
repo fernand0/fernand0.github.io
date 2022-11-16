@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: /tags/
+title: Posts by Tag
+---
+
+<div id="archives">
+
+  {% assign tags_sorted = site.tags | sort %}
+  {% for tag in tags_sorted %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ tag_name | slugify }}"></div>
+    <p></p>
+      <h3 class="tag-head"><i class="fa fa-tags fa-fw" aria-hidden="true"></i>&nbsp;{{ tag_name }}</h3>
+    <a name="{{ tag_name | slugify }}"></a>
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <ul>
+	<li><h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4></li>
+      </ul>
+    </article>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
