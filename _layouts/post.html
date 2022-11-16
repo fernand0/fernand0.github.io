@@ -25,6 +25,18 @@ layout: default
       {% unless forloop.last %}{% endunless %}
       {% endfor %}
   </div>
+  <div class="post-categories">
+    <i class="fa fa-tags fa-fw" aria-hidden="true"></i>&nbsp;Tags:&nbsp;
+      {% if post %}
+      {% assign tags = post.tags %}
+      {% else %}
+      {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+      <a class="categories-button"<a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+      {% unless forloop.last %}{% endunless %}
+      {% endfor %}
+  </div>
 
   <div class="share-post">
     <i class="fa fa-share-alt-square fa-fw" aria-hidden="true"></i>&nbsp;Share:&nbsp;
