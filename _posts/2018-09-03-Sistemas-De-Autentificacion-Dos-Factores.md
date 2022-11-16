@@ -3,7 +3,7 @@ layout: post
 title: "Algunos aspectos prácticos de la autentificación de dos factores"
 date: "Mon Sep 03 16:02:01 +0100 2018"
 category: seguridad
-tags: [seguridad, autentificación, autenticación, 2FA, dos, factores]
+tags: [seguridad, autentificación, autenticación, 2fA, dos, factores]
 imagefeature: https://c1.staticflickr.com/3/2899/33253324191_7174667d5b_m.jpg
 ---
 
