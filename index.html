@@ -15,12 +15,15 @@ layout: default
 
       {% else %}
 
-      {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+      {{ post.content}} <!-- .excerpt | markdownify | strip_html | truncate: 160 }}
+      -->
 
       {% endif %}
     </div>
 
+    <!--
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more&nbsp;&#183;{% include read-time.html content=post.content %}</a>
+    -->
   </article>
   {% endfor %}
 
