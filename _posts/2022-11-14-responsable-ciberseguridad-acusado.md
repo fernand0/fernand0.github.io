@@ -5,7 +5,7 @@ date: "2022-11-14 15:00:00 +0000"
 category: seguridad
 tags:
 - seguridad
-- ley
+- leyes
 - brecha
 - personas
 - condenas
