@@ -15,13 +15,13 @@ Hemos sido poco creativos porque descubrimos un proyecto 'heredero', [Forever Je
 
 El cambio lo hicimos en la página de GitHub de este sitio: [fernand0.github.io](https://github.com/fernand0/fernand0.github.io). Tal vez haya una forma más 'civilizada' de hacerlo, pero esta me funcionó sin mucha dificultad. Recomiendo haber preparado los cambios que vayamos a relizar para que el sitio esté desaparecido el menor tiempo posible:
 
-1 Eliminamos la página vieja, cambiándole el nombre (en este momento el sitio deja de estar disponible, cuidado).
-2 Hacemos un *fork* del proyecto que vamos a usar.
-3 Lo descargamos en nuestro sitio: `git clone https://github.com/fernand0/fernand0.github.io.git`
-4 Actualizamos las personalizaciones que podamos necesitar (mejor tenerlas ya preparadas, porque si no el sitio estará desaparecido mientras realizamos el proceso).
-5 Copiar las entradas que teníamos a `_posts`.
-6 Hacer `commit` de los cambios y subirlos (`git push`).
-7 ¡Ya está!
+1. Eliminamos la página vieja, cambiándole el nombre (en este momento el sitio deja de estar disponible, cuidado).
+2. Hacemos un *fork* del proyecto que vamos a usar.
+3. Lo descargamos en nuestro sitio: `git clone https://github.com/fernand0/fernand0.github.io.git`
+4. Actualizamos las personalizaciones que podamos necesitar (mejor tenerlas ya preparadas, porque si no el sitio estará desaparecido mientras realizamos el proceso).
+5. Copiar las entradas que teníamos a `_posts`.
+6. Hacer `commit` de los cambios y subirlos (`git push`).
+7. ¡Ya está!
 
 ¿Qué hemos ganado con el cambio?
 
