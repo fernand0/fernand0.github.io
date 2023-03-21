@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre caminos mínimos en grafos con pesos negativos"
-date: "2031-03-21 15:00:00 +0000"
+date: "2023-03-21 15:00:00 +0000"
 category: algoritmia
 tags:
 - desarrollo
