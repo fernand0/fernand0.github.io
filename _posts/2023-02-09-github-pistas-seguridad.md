@@ -9,7 +9,7 @@ tags:
 - herramientas
 imagefeature: 'https://live.staticflickr.com/65535/52579378881_fa7a7c5f8b.jpg'
 ---
-<a href="https://www.flickr.com/photos/fernand0/52579378881/in/dateposted/" title="Torre "><img src="https://live.staticflickr.com/65535/52579378881_fa7a7c5f8b.jpg" alt="Torre " class="img-responsive img-centered"></a>
+<a href="https://www.flickr.com/photos/fernand0/52579378881/" title="Torre "><img src="https://live.staticflickr.com/65535/52579378881_fa7a7c5f8b.jpg" alt="Torre " class="img-responsive img-centered"></a>
 Seguimos con GitHub. En esta ocasión [5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/). 
 Como dice el título, cinco recomendaciones para integrar la seguridad en nuestro flujo de trabajo.
 
