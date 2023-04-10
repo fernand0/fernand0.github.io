@@ -23,7 +23,7 @@ Pero se observa una tendencia de las empresas de comenzar con licencias libres p
 
 > They build up their business and code over five to 10 years. Along the way, they collect contributor license agreements (CLA) that give the company the rights to their code. Then they change the license and take away those rights."
 
-Pero también hay otros usos en los que no se había pensado anteriormente: cuando ese código se utiliza para entrenar inteleligencias artificiales.
+Pero también hay otros usos en los que no se había pensado anteriormente: cuando ese código se utiliza para entrenar inteligencias artificiales.
 
 > Moving forward, the OSI will also address the roles that machine learning (ML) and Artificial Intelligence (AI) play in both using and building open-source software. This has become an increasingly urgent issue.
 
