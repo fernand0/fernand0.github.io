@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ChatGPT y el phishing: no está mal"
-date: "2023-07-24 15:00:00 +0000"
+title: "ChatGPT, los plugins y el descontrol sobre nuestra información"
+date: "2023-08-07 15:00:00 +0000"
 category: seguridad
 tags:
 - seguridad
