@@ -27,4 +27,3 @@ Y, claro, los primeros generadores de números seudoaleatorios, como el de John 
 > John von Neumann developed a PRNG around 1946. His idea was to start with an initial random seed value, square it, and slice out the middle digits. 
 
 Para guardar.
-
