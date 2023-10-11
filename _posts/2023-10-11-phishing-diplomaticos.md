@@ -19,11 +19,13 @@ En [Diplomats Beware: Cloaked Ursa Phishing With a Twist](https://unit42.paloalt
 
 Los ataques típicamente se desarrollan utilizando diferentes mecanismos que son habituales en el mundillo (no los traduzco):
 
-> 
-    * Notes verbale (semiformal government-to-government diplomatic communications)
->   * Embassies’ operating status updates
->   * Schedules for diplomats
->   * Invitations to embassy events
+> * Notes verbale (semiformal government-to-government diplomatic communications)
+
+> * Embassies’ operating status updates
+
+> * Schedules for diplomats
+
+> * Invitations to embassy events
 
 Este tipo de comunicaciones se envían habitualmente a la persona que se encarga de esos asuntos en la embajada.
 
