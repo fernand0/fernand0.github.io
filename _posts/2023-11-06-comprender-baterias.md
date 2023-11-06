@@ -8,9 +8,9 @@ tags:
 - iot
 - electrónica
 - hardware
-imagefeature: 'https://avecesunafoto.files.wordpress.com/2017/07/cropped-2017-07-09-instagram.png'
+imagefeature: 'https://i.imgur.com/PK92Snv.jpg'
 ---
-<a href="https://avecesunafoto.wordpress.com/2021/04/11/cambio-de-bateria/" title="Cambio de batería."><img src="https://avecesunafoto.files.wordpress.com/2017/07/cropped-2017-07-09-instagram.png" alt="Cambio de batería." width="240" style="float:left; margin:5px"></a>
+<a href="https://avecesunafoto.wordpress.com/2021/04/11/cambio-de-bateria/" title="Cambio de batería."><img src="https://i.imgur.com/PK92Snv.jpg" alt="Cambio de batería." width="240" style="float:left; margin:5px"></a>
 
 No me llevo bien del todo con la electrónica y el *hardware*. Eso no me impide comprender lo importante que es y admirar entradas como [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life) donde un experto nos desgrana los detalles importantes de la baterías.
 
