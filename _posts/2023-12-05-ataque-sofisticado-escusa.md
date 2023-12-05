@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Un ataque sofisticado o paso de contarte lo que sucedió?"
+title: "¿Un ataque sofisticado o 'paso de contarte lo que sucedió'?"
 date: "2023-12-05 15:00:00 +0000"
 category: seguridad
 tags:
