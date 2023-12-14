@@ -51,7 +51,7 @@ El resultado: 66 de los 120 sitios exigen esa longitud, al menos.
 Las conclusiones son:
 
 * La política de contraseñas es teatro de seguridad (*security theater*)
-* Los sitios han preferido pasar a otros métidos (como autentificación multifactor) para aliviar los problemas (con sus propias dificultades/debilidades).
+* Los sitios han preferido pasar a otros métodos (como autentificación multifactor) para aliviar los problemas (con sus propias dificultades/debilidades).
 * Los sitios necesitan pasar auditorías de seguridad, pero estas auditorías recomiendan a veces prácticas obsoletas.
 * Los sitios tienen otras restricciones que tal vez expliquen estas malas prácticas.
 
