@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Generación de paquetes Android, seguridad y tranquilidad"
-date: "2024-02-11 15:00:00 +0000"
+title: "Seguridad, facilidad de uso y pensar en las personas"
+date: "2024-03-04 15:00:00 +0000"
 category: seguridad
 tags:
-- ataques
 - seguridad
-- android
-- f-droid
-- paquetes
-- distribución
-imagefeature: 'https://live.staticflickr.com/3128/3549004527_0962121bc6_z.jpg'
+- usabilidad
+- gente
+- personas
+imagefeature: 
 ---
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">Si vuestros sistemas son tan &#39;seguros&#39; que se convierten en difíciles o incómodos de usar, la gente utilizará alternativas. Para cosas del trabajo. Aplica especialmente al correo y sistemas de mensajería</p>&mdash; fernand0 (@fernand0) <a href="https://twitter.com/fernand0/status/1759865335195328709?ref_src=twsrc%5Etfw">February 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 Creo que ya lo he dicho aquí pero no me importa repetirme: la ciberseguridad tiene que ir de la mano de la usabilidad (ergonomía, comodidad, facilidad de uso ,...) y de la economía (¿cuánto cuesta? en todos los sentidos, se entiende). Y por ello nombro siempre que puedo <a href="https://www.usenix.org/conferences/byname/884">Symposium on Usable Privacy and Security (SOUPS)</a> y <a href="https://weis2023.econinfosec.org/organization/previous-workshops/">Workshop on the Economics of Information Security (WEIS)</a>. Trato de leer todos los años unos cuantos de los artículos que allí se publican.
