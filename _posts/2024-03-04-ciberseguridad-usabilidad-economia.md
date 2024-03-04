@@ -14,6 +14,7 @@ imagefeature: 'https://live.staticflickr.com/3128/3549004527_0962121bc6_z.jpg'
 ---
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">Si vuestros sistemas son tan &#39;seguros&#39; que se convierten en difíciles o incómodos de usar, la gente utilizará alternativas. Para cosas del trabajo. Aplica especialmente al correo y sistemas de mensajería</p>&mdash; fernand0 (@fernand0) <a href="https://twitter.com/fernand0/status/1759865335195328709?ref_src=twsrc%5Etfw">February 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 Creo que ya lo he dicho aquí pero no me importa repetirme: la ciberseguridad tiene que ir de la mano de la usabilidad (ergonomía, comodidad, facilidad de uso ,...) y de la economía (¿cuánto cuesta? en todos los sentidos, se entiende). Y por ello nombro siempre que puedo <a href="https://www.usenix.org/conferences/byname/884">Symposium on Usable Privacy and Security (SOUPS)</a> y <a href="https://weis2023.econinfosec.org/organization/previous-workshops/">Workshop on the Economics of Information Security (WEIS)</a>. Trato de leer todos los años unos cuantos de los artículos que allí se publican.
+Hoy solo hablaremos de la parte de comodidad de uso. La economía queda para otro día.
 
 Por este motivo me alegró leer <a href="https://jnd.org/when-security-gets-in-the-way/">When Security Gets in the Way</a> que es de hace unos años, pero que hablaba del tema.
 
