@@ -2,7 +2,7 @@
 layout: post
 title: "Las limitaciones de los analizadores de código para la seguridad"
 date: "2024-06-24 15:00:00 +0000"
-category: desarrollo
+category: seguridad
 tags:
 - desarrollo
 - analizadores
