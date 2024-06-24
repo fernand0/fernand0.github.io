@@ -8,7 +8,7 @@ tags:
 - analizadores
 - seguridad
 - código
-imagefeature: "https://live.staticflickr.com/65535/53794868454_a5bf834526_z.jpg
+imagefeature: "https://live.staticflickr.com/65535/53794868454_a5bf834526_z.jpg"
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/53794868454/in/dateposted/" title="Piedras"><img src="https://live.staticflickr.com/65535/53794868454_a5bf834526_z.jpg" width="427" height="640" alt="Piedras"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
