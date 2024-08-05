@@ -6,10 +6,10 @@ category: seguridad
 tags:
 - web
 - WordPress
-imagefeature: "https://live.staticflickr.com/65535/51334548326_e297d749c8_z.jpg"
+imagefeature: "https://live.staticflickr.com/220/446493967_c97d84a7f4_z.jpg"
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/51334548326/in/photolist-2gyJfDL-2hfQ4cw-2hxQfGx-2idYLKA-2jaqkz3-2kx71fT-2kFMYS4-2kMYwwu-2kMYX5U-2kUTtTy-2kWjdDB-2mdfYKq-2mdfYLN-2nffsJm-2prRLHM-2pEwCSo-2pEwCU2-2pK3CZt-2pMN8kU-2f3D3T4-s2ioZC-s2rqsc-BFN6y9-CA8oFN-Ev3AE3-EYwm9m-FgzRAP-FqF26E-G3FS1y-G5ZudM-PRRmtw-24h9dgM-PUBziP-QbmpPJ-Qe9Vc6-QEpmoz-RpkB9A-RsTxQi-RBPJCT-RRmD2H-RVQmnq-SEtYKH-T2HibJ-T6mt6a-e5L8WT-3Ev3fi-589mHS-97n6Mg-zmZ2-d9XeHs" title="Detalle de la puerta"><img src="https://live.staticflickr.com/65535/51334548326_e297d749c8_z.jpg" width="427" height="640" alt="Detalle de la puerta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/446493967/in/photolist-4MBdM6-5wd7kj-Fsp6R" title="Secadores amenazantes"><img src="https://live.staticflickr.com/220/446493967_c97d84a7f4_z.jpg" width="640" height="480" alt="Secadores amenazantes"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hace unos meses podíamos leer [Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/) que me gustó porque nos da algunas pistas de algunos de los aspectos peligrosos de la inteligencia artificial, desde el punto de vista de la seguridad informática.
 
