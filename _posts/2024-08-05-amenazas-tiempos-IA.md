@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Las amenazas en los tiempos de la IA"
-date: "2024-07-29 15:00:00 +0000"
+date: "2024-08-05 15:00:00 +0000"
 category: seguridad
 tags:
 - web
