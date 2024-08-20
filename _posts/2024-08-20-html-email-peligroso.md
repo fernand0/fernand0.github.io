@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los protocolos de la web explicados"
+title: "Los peligros del correo con HTML y CSS"
 date: "2024-08-20 15:00:00 +0000"
 category: seguridad
 tags:
