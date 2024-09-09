@@ -27,7 +27,7 @@ El nombre que había elegido para su recurso coincidía con uno que utiliza una 
 
 > Was it some kind of DDoS-like attack against my account? Against AWS? As it turns out, one of the popular open-source tools had a default configuration to store their backups in S3. And, as a placeholder for a bucket name, they used… the same name that I used for my bucket.
 
-Eso era un problema por los accesos de simples consultas, pero también podría ser un problema de seguridad si se permite escribir.
+Eso era un riesgo solo por los accesos de consultas, pero también podría ser un asunto de seguridad si se permite escribir, porque alguien lo hará y puede encontrarse con sus datos confidenciales por ahí.
 
 > I opened my bucket for public writes and collected over 10GB of data within less than 30 seconds. Of course, I can’t disclose whose data it was. But it left me amazed at how an innocent configuration oversight could lead to a dangerous data leak!
 
