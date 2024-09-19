@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los nombres son importantes en la nube"
+title: "Abuso de los comentarios en GitHub"
 date: "2024-09-19 15:00:00 +0000"
 category: seguridad
 tags:
