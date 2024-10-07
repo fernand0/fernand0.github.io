@@ -32,5 +32,3 @@ Sin embargo, si usamos STDIN, lo que hay allí no es visible para `ps`, y tampoc
 
 Luego da algún ejemplo sobre la forma de hacerlo en Go, y cómo integrarlo con otros mecanismos para guardar información.
 
-
-
