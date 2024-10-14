@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entrada a los programas, visibilidad y posibilidades de espiar"
+title: "Despliegue de URLs, interacción en Slack y sus riesgos"
 date: "2024-10-14 15:00:00 +0000"
 category: seguridad
 tags:
