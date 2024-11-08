@@ -101,8 +101,8 @@ footer_links:
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 copyright: 
-  - text: "fernand0 @ GitHub.io. Powered by <a href='https://jekyllrb.com' rel='nofollow'>Jekyll</a> &amp; <a href='https://github.com/forever-jekyll/forever-jekyll' rel='nofollow'>Forever Jekyll</a>."
-    start: 2004
+   text: "fernand0 @ GitHub.io. Powered by <a href='https://jekyllrb.com' rel='nofollow'>Jekyll</a> &amp; <a href='https://github.com/forever-jekyll/forever-jekyll' rel='nofollow'>Forever Jekyll</a>."
+   start: 2004
 
 # Time zone
 timezone: null
