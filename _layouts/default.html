@@ -75,7 +75,7 @@
 
           <div class="copyright">
             {% if site.copyright %}
-            <p>&copy; {{ site.copyright.start }} - { site.time | date: '%Y' }} {{ site.copyright | markdownify }} </p>
+            <p>&copy; {{ site.copyright.start }} - { site.time | date: '%Y' }} {{ site.copyright.text | markdownify }} </p>
             {% else %}
             <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.title }}. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a>.</p>
             {% endif %}
