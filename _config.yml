@@ -39,8 +39,8 @@ navigation_links:
   - title: About
     url: /about
 
-  - title: Search
-    url: /search
+#  - title: Search
+#    url: /search
 
   - title: El Mundo Es Imperfecto
     url: https://elmundoesimperfecto.com/
