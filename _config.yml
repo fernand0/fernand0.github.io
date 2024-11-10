@@ -39,8 +39,8 @@ navigation_links:
   - title: About
     url: /about
 
-  - title: Search
-    url: /search
+#  - title: Search
+#    url: /search
 
   - title: El Mundo Es Imperfecto
     url: https://elmundoesimperfecto.com/
@@ -100,7 +100,7 @@ footer_links:
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
-copyright: 2004
+copyright: 2014
 
 # Time zone
 timezone: null
