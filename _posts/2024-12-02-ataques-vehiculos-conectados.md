@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los vehículos, los nuevos servicios y los mismos fallos de siempre"
-date: "2024-11-10 15:00:00 +0000"
+date: "2024-12-02 15:00:00 +0000"
 category: seguridad
 tags:
 - seguridad
