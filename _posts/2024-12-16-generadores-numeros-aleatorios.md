@@ -15,7 +15,7 @@ imagefeature: "https://live.staticflickr.com/1255/1301539362_daa1107f13_z.jpg"
 
 Esta es la edición de final de año del recordatorio de que los números aleatorios y las computadoras no se llevan bien. En esta ocasión de la mano de John D. Cook, y [RNG, PRNG, CSPRNG](https://www.johndcook.com/blog/2024/10/16/rng-prng-csprng/).
 
-Empieza recordándonos que la mayoría de generadores de números aleatorios son generadores de números **seudo**aleatorios (*pseudorandom number generators (PRNGs)*.
+Empieza recordándonos que la mayoría de generadores de números aleatorios son generadores de números **seudo**aleatorios (*pseudorandom number generators PRNGs)*.
 
 > Most random number generators are pseudorandom number generators (PRNGs). The distinction may be pedantic or crucial, depending on context. In the context of cryptography, it’s critical.
 
