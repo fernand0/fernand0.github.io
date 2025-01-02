@@ -14,7 +14,7 @@ imagefeature: 'http://live.staticflickr.com/65535/51351254440_56c628ace6.jpg'
 <a href="https://www.flickr.com/photos/fernand0/51351254440/" title="Lanchas "><img src="http://live.staticflickr.com/65535/51351254440_56c628ace6.jpg" alt="Lanchas " width="240" style="float:left; margin:5px"></a>
 La contaminación de parámetros de HTTP es un fallo que ya tiene un tiempo (descubierto en 1999). Se trata de aprovechar que algunos entornos ponen a disposición del entorno esos parámetros para atacar una aplicación.
 
-En [A Look at HTTP Parameter Pollution and How To Prevent It](https://securityintelligence.com/posts/how-to-prevent-http-parameter-pollution/) repsan las ideas principales y nos ofrecen consejos para evitarlos.
+En [A Look at HTTP Parameter Pollution and How To Prevent It](https://securityintelligence.com/posts/how-to-prevent-http-parameter-pollution/) repasan las ideas principales y nos ofrecen consejos para evitarlos.
 
 > With HTTP Parameter Pollution (HPP) attacks, threat actors can hide scripts and processes in URLs. First discovered in 1999, this technique can also allow threat actors to pollute the parameters in the URL and the request body. This could lead to behavior changes in the app, such as cross-site scripting, privilege changes or granting unwanted access.
 
@@ -36,6 +36,6 @@ La protección pasa por la validación de la entrada (validación, no saneamient
 
 Buena lectura, para recordar un viejo problema.
 
-> 
+>
 
 
