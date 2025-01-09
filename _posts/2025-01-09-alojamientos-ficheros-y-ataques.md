@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Confundiendo a los usuarios en sitios frecuentes de alojamiento de información"
+title: "Confundiendo a los usuarios usando sitios habituales de alojamiento de información"
 date: "2025-01-09 15:00:00 +0000"
 category: seguridad
 tags:
