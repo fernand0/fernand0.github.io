@@ -10,7 +10,7 @@ tags:
 imagefeature: "https://live.staticflickr.com/65535/54360107938_257f900cb2_z.jpg"
 ---
 <a href="https://avecesunafoto.wordpress.com/2025/05/19/con-bicho/"><img src="https://i.imgur.com/hXUOysm.jpeg" title="Enmarañado" widht="640" alt="Imagen de un bicho entre una maraña de pelos de una planta"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/54360107938/in/dateposted/" title="Schöner Brunnen (Reja y cañería)"><img src="https://live.staticflickr.com/65535/54360107938_257f900cb2_z.jpg" width="640" height="427" alt="Schöner Brunnen (Reja y cañería)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Como hacía mucho que no escribíamos por aquí traigo una lectura de hace bastante tiempo, pero que tiene una (pequeña) dosis de actualidad por el reciente incidente que tuvo el sitio.
 
 Comentaremos sobre [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha) y la actualidad tendría que ver con su reciente caída ([How the Internet Left 4chan Behind](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-left-4chan-behind)).
