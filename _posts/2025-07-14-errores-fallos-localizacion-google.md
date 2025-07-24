@@ -10,7 +10,7 @@ tags:
 - maps
 imagefeature: "https://live.staticflickr.com/2284/2069951016_4745f339f7_z.jpg"
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/2069951016/in/photolist-49V3jC-4dPK4D-4dTJNE-4tHu9E-JLa5n9-rezYS-5BkfrM-2aDcbE2-2diqtQR" title="Mapa publicitario"><img src="https://live.staticflickr.com/2284/2069951016_4745f339f7_z.jpg" width="640" height="480" alt="Mapa publicitario"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/2069951016/" title="Mapa publicitario"><img src="https://live.staticflickr.com/2284/2069951016_4745f339f7_c.jpg" width="800" height="600" alt="Mapa publicitario"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Todos los consejos de privacidad recomiendan desactivar el almacenamiento de localización de Google. Sin embargo, yo me declaro un gran fan de la cosa: no es la primera vez que queriendo recordar los detalles de cuándo estuve dónde he tenido que buscar en el historial de alguien cercano porque lo tuve desactivado durante una época.
 
