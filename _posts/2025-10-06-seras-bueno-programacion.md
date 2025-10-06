@@ -34,6 +34,8 @@ Esos indicios de dificultades a la hora de programa serían, según Jonathan Blu
 * No prestar atención cuidadosa a los detalles.
 
 
+Según el autor:
+
 > 1 | Lack of curiosity
 > 2 | Lack of autonomy and resourcefulness
 > 3 | Lack of persistence in the face of a problem
