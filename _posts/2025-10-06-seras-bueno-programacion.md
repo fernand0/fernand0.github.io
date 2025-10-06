@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aprender a programar, ¿para todo el mundo?"
-date: "2025-10-06 15:00:00 +0000"
+date: "2025-10-06 14:00:00 +0000"
 category: desarrollo
 tags:
 - desarrollo
