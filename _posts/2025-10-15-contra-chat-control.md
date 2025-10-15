@@ -11,7 +11,7 @@ imagefeature: "https://live.staticflickr.com/2254/2234895945_ef79406f40_z.jpg"
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/8066571/in/photolist-HkUP" title="Semana Santa. Moto de la policía."><img src="https://live.staticflickr.com/7/8066571_ec54fcd1ff_z.jpg" width="640" height="480" alt="Semana Santa. Moto de la policía."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-No suelo hacer esto, de hecho creo que es la primera vez, pero voy a copiar un texto de mi otra bitácora porque el tema me parece importane y me preocupa. No sé si habrá mucha gente que lea las dos, supongo que no.
+No suelo hacer esto, de hecho creo que es la primera vez, pero voy a copiar un texto de mi otra bitácora porque el tema me parece importante y me preocupa. No sé si habrá mucha gente que lea las dos, supongo que no.
 
 A pesar de estar completamente en contra, la verdad es que no estoy muy seguro del estado actual del tema, pero llevamos un par de semanas con bastante intensidad sobre Chat Control (lo cuentan, por ejemplo, en <a href="https://www.microsiervos.com/archivo/internet/cruce-de-cables-chat-control.html">Cruce de cables: Chat Control, el enésimo intento de ponerle puertas al campo mientras coartan nuestros derechos con la disculpa de proteger a los menores</a>.
 
