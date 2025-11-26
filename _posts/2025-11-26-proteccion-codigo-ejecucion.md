@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Protección de ataques en el hardware: más allá de la aleatorización"
-date: "2025-11-20 14:00:00 +0000"
+date: "2025-11-26 14:00:00 +0000"
 category: seguridad
 tags:
 - aleatorización
