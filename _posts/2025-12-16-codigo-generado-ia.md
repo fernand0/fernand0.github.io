@@ -32,3 +32,5 @@ Lo peor del caso es que en algunos casos esas alucinaciones se concentran en sit
 
 > In other words, many package hallucinations aren’t random one-off errors. Rather, specific names of non-existent packages are repeated over and over. Attackers could seize on the pattern by identifying nonexistent packages that are repeatedly hallucinated. The attackers would then publish malware using those names and wait for them to be accessed by large numbers of developers.
 
+**Actualización (2025-12-23)** En [LLMs can't stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/) otro enlace donde hablan del tema.
+
