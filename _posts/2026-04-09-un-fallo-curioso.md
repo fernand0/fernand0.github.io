@@ -44,3 +44,4 @@ Es posible que lo sea, pero en principio parece más bien lo contrario: una prot
 > On the surface, this does sound like it could be used to “hack” someone’s iPhone via a bad audio message transcription, but in reality what this bug demonstrates is that Apple’s BlastDoor mechanism is working as designed.
 
 Interesante.
+Es un tipo de fallos muy difíciles de controlar y que tienen muchas posibilidades para realizar ataques, aunque en este caso nos quedamos en el lado de la seguridad.
