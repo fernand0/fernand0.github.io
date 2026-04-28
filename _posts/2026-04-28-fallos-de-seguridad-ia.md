@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La seguridad en los tiempos de la IA y la sostenibilidad del software libre"
-date: "2026-04-09 14:00:00 +0000"
+date: "2026-04-28 14:00:00 +0000"
 category: seguridad
 tags:
 - código
