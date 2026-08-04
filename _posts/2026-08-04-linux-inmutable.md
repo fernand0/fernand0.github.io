@@ -8,7 +8,7 @@ tags:
 - inmutabilidad
 - nube
 - control
-imagefeature: "https://live.staticflickr.com/65535/55034144037_a44a7e1cea_z.jpg
+imagefeature: "https://live.staticflickr.com/65535/55034144037_a44a7e1cea_z.jpg"
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/55034144037/" title="Decoración del Obeslico de Teodosio"><img src="https://live.staticflickr.com/65535/55034144037_a44a7e1cea_z.jpg" width="640" height="427" alt="Decoración del Obeslico de Teodosio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
