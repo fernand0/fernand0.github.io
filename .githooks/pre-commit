@@ -1,0 +1,9 @@
+#!/bin/bash
+# Revisa los archivos .md que se van a enviar en el commit
+for file in $(git diff --cached --name-only | grep '\.md$'); do
+    python3 -c "import yaml; yaml.safe_load(open('$file').read().split('---')[1])" 2>/dev/null
+    if [ $? -ne 0 ]; then
+        echo "Error de sintaxis YAML en: $file"
+        exit 1
+    fi
+done
