@@ -14,7 +14,7 @@ imagefeature: "https://live.staticflickr.com/65535/55409660230_380067a87f_z.jpg"
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/55409660230/" title="Armadura del Sultán Mustafá III"><img src="https://live.staticflickr.com/65535/55409660230_380067a87f_z.jpg" width="427" height="640" alt="Armadura del Sultán Mustafá III"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Cualquiera que venga por aquí de vez en cuando imaginará que esto es así. En [AI Coding Tools Are Creating a Security Gap We Must Close Immediately](https://www.veracode.com/blog/ai-coding-tools-security-gaps/) (que lei a través de [AI code generators are writing vulnerable software nearly half the time](https://nerds.xyz/2025/07/ai-security-flaws-veracode-2025/) pero ahora parece no estar disponible) nos dicen que a los desarrolladores les gusta mucho usar los LLMs: escriben código más rápido, hacen menos trabajo repetitivo y se pueden añadir más características fácilmente.
+Cualquiera que venga por aquí de vez en cuando imaginará que esto es así. En [AI Coding Tools Are Creating a Security Gap We Must Close Immediately](https://www.veracode.com/blog/ai-coding-tools-security-gaps/) (que leí a través de [AI code generators are writing vulnerable software nearly half the time](https://nerds.xyz/2025/07/ai-security-flaws-veracode-2025/) pero ahora parece no estar disponible) nos dicen que a los desarrolladores les gusta mucho usar los LLMs: escriben código más rápido, hacen menos trabajo repetitivo y se pueden añadir más características fácilmente.
 
 > Developers love AI coding tools. And why wouldn’t they? After all, they write code faster. They reduce repetitive work. They help junior engineers ship features that used to take days.
 
@@ -22,7 +22,7 @@ Pero hay un problema, esta aceleración también se produce en la generación de
 
 > AI coding tools are producing insecure code at massive scale. And the industry is running out of time to fix it.
 
-Si lo pensamos, esto es normal: con tanto código malo como hay por ahí disponible, seguramente al entrenar a esos LLMs no se habrá filtrado adecuadamente el código malo.
+Si lo pensamos, esto es normal: con tanto código malo como hay por ahí disponible, seguramente al entrenar a esos LLMs no se habrá filtrado adecuadamente el código defectuoso.
 
 El resumen que nos da es que solo el 55% del código generado en las pruebas de Veracode pasa pruebas básicas de seguridad.
 
@@ -32,7 +32,7 @@ Por ponerlo más claro: en casi la mitad del código generado por un LLM se intr
 
 > That means in nearly half of all cases, an AI coding tool may introduce a known security vulnerability directly into your codebase.
 
-El contraste es interesante, porque es código es perfecto desde el punto de vista sintáctico, pasa las pruebas unitarias, se mezcla con el código anterior ...
+El contraste es interesante, porque este código es perfecto desde el punto de vista sintáctico, pasa las pruebas unitarias, se mezcla con el código anterior ...
 
 > What makes this worse is the contrast. Those same AI models achieve syntax correctness rates above 95%. The code looks right. It runs. It passes unit tests. It gets merged. And it contains a security hole.
 
@@ -40,7 +40,8 @@ Algunos tipos de fallo son mejores que otros, por ejemplo para la inyección de 
 
 > For SQL injection, AI models achieve an 82% security pass rate. For insecure cryptographic algorithms, it’s 86%. These are common, well-documented patterns. The models have seen them thousands of times in training data. They’ve learned to avoid the obvious anti-patterns.
 
-Sin embargo, si nos referimos a la inyección cruzada (*cross-site scripting (XSS),*), la cosa baja a un 15% (¡Ay la web!) y en el caso de inyección en el registro de actividad (*log injection*) estamos hablando del 13% ¿tus programadores se preocupan de lo que se escribe en el registro de actividad?.
+Sin embargo, si nos referimos a la inyección cruzada (*cross-site scripting (XSS),*), la cosa baja a un 15% (¡Ay la web!) y en el caso de inyección en el registro de actividad (*log injection*) estamos hablando del 13%.
+¿Tus programadores se preocupan de lo que se escribe en el registro de actividad?
 
 Nos dice que la cosa no ha mejorado en estos años con los sucesivos modelos, porque son buenos con el manejo de patrones, y lo que ya han visto, pero no lo son tanto con razonamientos sutiles, dependientes del contexto y de su lógica.
 
@@ -72,7 +73,7 @@ Nos recomiendan, por lo tanto, priorizar:
 
 > 2. Make security prompting a standard, not a suggestion.
 
-3. Reemplazar las pruebas manuales por pruebas automatizadas.
+3. Reemplaza las pruebas manuales por pruebas automatizadas.
 
 > 3. Replace manual testing with continuous, automated scanning.
 
@@ -80,7 +81,7 @@ Nos recomiendan, por lo tanto, priorizar:
 
 > 4. Build visibility before you build remediation plans.
 
-5. Demuéstralo. Al comité, los reguladores, y los clientes.
+5. Demuéstralo. Al comité, los reguladores y los clientes.
 
 > 5. Prove it — to your board, your regulators, and your customers.
 
